@@ -1,8 +1,8 @@
-# Playtest for [Game Title]
+# Playtest for [Attack on Titan Tactics]
 
-* Game Publisher
-* Game Rating
-* [Game Title Website](http://example.com)
+* DeNA Developed by KAYAC
+* 17+
+* https://aot-tactics.com/
 
 **Question:** During your playtesting where the rules of the game understandable? If not, what was not clear.
 > _Answer:_ Your answer here
